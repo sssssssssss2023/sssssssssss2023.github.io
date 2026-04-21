@@ -13,8 +13,6 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 # Test image
 
-![{1567C347-FA33-4300-A80D-7A6C232434B9}](../assets/blog_res/about.assets/%7B1567C347-FA33-4300-A80D-7A6C232434B9%7D.png)
-
 大家好 你好！世界！
 
 A data-driven personal website

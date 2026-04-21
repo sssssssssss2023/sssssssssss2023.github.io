@@ -12,4 +12,6 @@ These .ipynb files are Jupyter notebook files that convert a TSV containing stru
 
 ## noteforuself
 
-标题之间需要换行。
+标题上下各空一行。
+
+yam用vscode读。（写字本有格式utf-8问题）
